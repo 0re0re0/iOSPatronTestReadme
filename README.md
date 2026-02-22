@@ -35,7 +35,7 @@ La aplicación se adapta a tu objetivo. Desde el primer momento, puedes seleccio
 
 | Selección de Licencia |
 |:---:|
-| <!-- INSERTAR GIF/IMAGEN DE SELECCIÓN DE LICENCIA AQUÍ --> |
+|<img src="./Assets/licenses1.gif" alt="Licenses GIF" width="300"/>|
 
 ### Modo Examen: Simulación Real
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=219AE6" />
