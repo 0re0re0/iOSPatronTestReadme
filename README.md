@@ -35,7 +35,7 @@ La aplicación se adapta a tu objetivo. Desde el primer momento, puedes seleccio
 
 | Selección de Licencia |
 |:---:|
-|<img src="./Assets/licenses1.gif" alt="Licenses GIF" width="300"/>|
+|<img src="./Assets/licenses.gif" alt="Licenses GIF" width="200"/>|
 
 ### Modo Examen: Simulación Real
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=219AE6" />
@@ -49,7 +49,7 @@ Pon a prueba tus conocimientos con el **Simulador de Examen Oficial**.
 
 | Inicio de Examen | Pantalla de Examen |
 |:---:|:---:|
-| <!-- INSERTAR GIF/IMAGEN PREVIEW EXAMEN AQUÍ --> | <!-- INSERTAR GIF/IMAGEN PANTALLA EXAMEN AQUÍ --> |
+| <img src="./Assets/examStart.gif" alt="Licenses GIF" width="200"/> |<img src="./Assets/exam.gif" alt="Licenses GIF" width="200"/>|
 
 ### Tests por Unidad: Refuerzo Temático
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=219AE6" />
@@ -63,7 +63,7 @@ Pon a prueba tus conocimientos con el **Simulador de Examen Oficial**.
 
 | Selección de Unidad | Test de Unidad |
 |:---:|:---:|
-| <!-- INSERTAR GIF/IMAGEN SELECCIÓN UNIDAD AQUÍ --> | <!-- INSERTAR GIF/IMAGEN TEST UNIDAD AQUÍ --> |
+| <img src="./Assets/testStart.gif" alt="Licenses GIF" width="200"/> | <img src="./Assets/test.gif" alt="Licenses GIF" width="200"/> |
 
 ###  Historial y Análisis de Resultados
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=219AE6" />
@@ -80,7 +80,7 @@ Tu progreso, bajo control. Todo se guarda localmente en tu dispositivo.
 
 | Historial de Resultados | Filtrado de Tests |
 |:---:|:---:|
-| <!-- INSERTAR GIF/IMAGEN HISTORIAL AQUÍ --> | <!-- INSERTAR GIF/IMAGEN FILTROS AQUÍ --> |
+| <img src="./Assets/results.gif" alt="Licenses GIF" width="200"/> | <img src="./Assets/filters.gif" alt="Licenses GIF" width="200"/> |
 
 <br>
 <p align="left">
