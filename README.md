@@ -1,4 +1,6 @@
-# Patron Test App    <img src="./Assets/AppIcon.png" alt="App Icon" width="120"/>
+<img src="./Assets/AppIcon.png" alt="App Icon" width="80" style="border-radius: 40px;"/>
+
+# Patron Test 
 
 **Patron Test** es una aplicación iOS nativa diseñada para ayudar a los aspirantes a obtener las titulaciones náuticas: <br> 
 - **PER (Patrón de Embarcaciones de Recreo)** 
