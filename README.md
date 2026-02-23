@@ -194,11 +194,11 @@ La preparación de un examen requiere concentración. Hemos decidido eliminar cu
 
   <h3>
 - Conrado Capilla García
-<a href="mailto:--@gmail.com">
+<a href="mailto:conradocg@hotmail.es">
   <img src="https://readmecodegen.vercel.app/api/social-icon?name=gmail&size=20"
        style="vertical-align: middle; margin-left: 6px;" />
 </a>
-<a href="">
+<a href="https://www.linkedin.com/in/conrado-capilla/">
   <img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=20"
        style="vertical-align: middle; margin-left: 4px;" />
 </a>
