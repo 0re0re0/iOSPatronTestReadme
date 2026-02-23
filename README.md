@@ -15,12 +15,12 @@ La aplicación ofrece una experiencia de estudio moderna, intuitiva y eficaz, pe
 
 <br>
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=35&text=Características%20Principales&color=219AE6&fontColor=ffffff&fontSize=20&padding=10" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=35&text=Características%20Principales&color=007AFF&fontColor=ffffff&fontSize=20&padding=10" />
 </p>
 <br>
 
 ### Gestión de Licencias
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=219AE6" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=007AFF" />
 
 
 La aplicación se adapta a tu objetivo. Desde el primer momento, puedes seleccionar tu titulación:
@@ -38,7 +38,7 @@ La aplicación se adapta a tu objetivo. Desde el primer momento, puedes seleccio
 |<img src="./Assets/licenses.gif" alt="Licenses GIF" width="200"/>|
 
 ### Modo Examen: Simulación Real
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=219AE6" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=007AFF" />
 Pon a prueba tus conocimientos con el **Simulador de Examen Oficial**.
 - Genera un examen completo siguiendo la estructura oficial del BOE.
 - Mismo número de preguntas y distribución por temas que el examen real.
@@ -52,7 +52,7 @@ Pon a prueba tus conocimientos con el **Simulador de Examen Oficial**.
 | <img src="./Assets/examStart.gif" alt="Licenses GIF" width="200"/> |<img src="./Assets/exam.gif" alt="Licenses GIF" width="200"/>|
 
 ### Tests por Unidad: Refuerzo Temático
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=219AE6" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=007AFF" />
 ¿Necesitas mejorar en Balizamiento o Reglamento?
 - **Estudio Focalizado**: Selecciona cualquiera de las 11 unidades temáticas para practicar preguntas específicas.
 - Ideal para repasar temas concretos después de estudiarlos.
@@ -66,7 +66,7 @@ Pon a prueba tus conocimientos con el **Simulador de Examen Oficial**.
 | <img src="./Assets/testStart.gif" alt="Licenses GIF" width="200"/> | <img src="./Assets/test.gif" alt="Licenses GIF" width="200"/> |
 
 ###  Historial y Análisis de Resultados
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=219AE6" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=007AFF" />
 Tu progreso, bajo control. Todo se guarda localmente en tu dispositivo.
 - **Listado Completo**: Accede a todos los tests y exámenes que has realizado.
 - **Filtros Inteligentes**: Organiza tu historial por:
@@ -84,12 +84,12 @@ Tu progreso, bajo control. Todo se guarda localmente en tu dispositivo.
 
 <br>
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=35&text=Stack%20Tecnológico&color=219AE6&fontColor=ffffff&fontSize=20&padding=10" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=35&text=Stack%20Tecnológico&color=007AFF&fontColor=ffffff&fontSize=20&padding=10" />
 </p>
 <br>
 
 ### Tecnologías y buenas prácticas
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=219AE6" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=007AFF" />
 
 - **Lenguaje**: Swift 5.9
 - **UI Framework**: SwiftUI
@@ -101,14 +101,14 @@ Tu progreso, bajo control. Todo se guarda localmente en tu dispositivo.
 
 <br>
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=35&text=Architecture%20y%20Design%20Patterns&color=219AE6&fontColor=ffffff&fontSize=20&padding=10" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=35&text=Architecture%20y%20Design%20Patterns&color=007AFF&fontColor=ffffff&fontSize=20&padding=10" />
 </p>
 <br>
 
 La aplicación sigue estrictamente los principios de **Clean Architecture** para asegurar la escalabilidad, testabilidad y mantenibilidad del código.
 
 ### Capas del Sistema
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=219AE6" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=007AFF" />
 
 1.  **Presentation Layer (MVVM)**:
     -   **Views**: Componentes SwiftUI puramente declarativos.
@@ -127,7 +127,7 @@ La aplicación sigue estrictamente los principios de **Clean Architecture** para
         -   **Remote**: `Firebase` para obtener preguntas actualizadas y configuración.
 
 ### Diagrama de Archivos (Estructura Simplificada)
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=219AE6" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=007AFF" />
 
 ```text
 Patron Test/
@@ -154,19 +154,19 @@ Patron Test/
 
 <br>
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=35&text=Gestión%20de%20Datos&color=219AE6&fontColor=ffffff&fontSize=20&padding=10" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=35&text=Gestión%20de%20Datos&color=007AFF&fontColor=ffffff&fontSize=20&padding=10" />
 </p>
 <br>
 
 ### Base de Datos Local (SwiftData)
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=219AE6" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=007AFF" />
 Utilizamos **SwiftData** para una persistencia moderna y eficiente. Esto permite al usuario:
 - Guardar su historial de exámenes.
 - Consultar resultados anteriores sin conexión.
 - Mantener su progreso sincronizado localmente.
 
 ### Base de Datos Remota (Firebase)
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=219AE6" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=007AFF" />
 - **Firestore**: Almacena el banco de preguntas actualizado, permitiendo corregir erratas o añadir nuevas preguntas sin actualizar la app.
 - **Remote Config**: Permite ajustar parámetros de la app dinámicamente desde la nube.
 
@@ -174,29 +174,49 @@ Utilizamos **SwiftData** para una persistencia moderna y eficiente. Esto permite
 <br>
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=35&text=Filosof%C3%ADa%20de%20Dise%C3%B1o&color=219AE6&fontColor=ffffff&fontSize=20&padding=10" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=35&text=Filosof%C3%ADa%20de%20Dise%C3%B1o&color=007AFF&fontColor=ffffff&fontSize=20&padding=10" />
 </p>
 
 ###  Sin Login
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=219AE6" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=007AFF" />
 Creemos en la inmediatez. El usuario descarga la app y empieza a practicar al instante. No hay barreras de entrada, registros ni recolección de datos personales innecesarios.
 
 ###  Sin Anuncios
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=219AE6" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=007AFF" />
 La preparación de un examen requiere concentración. Hemos decidido eliminar cualquier distracción publicitaria para ofrecer la mejor experiencia de estudio posible.
 
 <br>
 <br>
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=35&text=Desarrolladores&color=219AE6&fontColor=ffffff&fontSize=20&padding=10" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=35&text=Desarrolladores&color=007AFF&fontColor=ffffff&fontSize=20&padding=10" />
 </p>
-<br>
 
-- **Conrado Capilla García** - *iOS Developer*
-- **Javier Cárdenas Perdomo** - *iOS Developer*
+  <h3>
+- Conrado Capilla García
+<a href="mailto:--@gmail.com">
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=gmail&size=20"
+       style="vertical-align: middle; margin-left: 6px;" />
+</a>
+<a href="">
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=20"
+       style="vertical-align: middle; margin-left: 4px;" />
+</a>
+</h3>
+
+<h3>
+- Javier Cárdenas Perdomo
+<a href="mailto:cardenas97vga@gmail.com">
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=gmail&size=20"
+       style="vertical-align: middle; margin-left: 6px;" />
+</a>
+<a href="https://www.linkedin.com/in/javier-cardenas">
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=20"
+       style="vertical-align: middle; margin-left: 4px;" />
+</a>
+</h3>
   
 <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=219AE6" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=007AFF" />
 
 *Proyecto desarrollado con fines educativos y profesionales.*
