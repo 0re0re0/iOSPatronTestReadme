@@ -31,20 +31,21 @@ La aplicación se adapta a tu objetivo. Desde el primer momento, puedes seleccio
  El contenido, los iconos y los criterios de evaluación se ajustan automáticamente según la licencia seleccionada, asegurando que estudies exactamente lo que necesitas.
 
 <br>
-<br>
 
 | Selección de Licencia |
 |:---:|
 |<img src="./Assets/licenses.gif" alt="Licenses GIF" width="200"/>|
 
 ### Modo Examen: Simulación Real
+
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=007AFF" />
+
 Pon a prueba tus conocimientos con el **Simulador de Examen Oficial**.
+
 - Genera un examen completo siguiendo la estructura oficial del BOE.
 - Mismo número de preguntas y distribución por temas que el examen real.
 - Corrección automática al finalizar con los criterios oficiales de aprobado/suspenso.
 
-<br>
 <br>
 
 | Inicio de Examen | Pantalla de Examen |
@@ -52,13 +53,15 @@ Pon a prueba tus conocimientos con el **Simulador de Examen Oficial**.
 | <img src="./Assets/examStart.gif" alt="Licenses GIF" width="200"/> |<img src="./Assets/exam.gif" alt="Licenses GIF" width="200"/>|
 
 ### Tests por Unidad: Refuerzo Temático
+
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=007AFF" />
+
 ¿Necesitas mejorar en Balizamiento o Reglamento?
-- **Estudio Focalizado**: Selecciona cualquiera de las 11 unidades temáticas para practicar preguntas específicas.
+
+- **Estudio focalizado**: Selecciona cualquiera de las 11 unidades temáticas para practicar preguntas específicas.
 - Ideal para repasar temas concretos después de estudiarlos.
 - Feedback inmediato opcional para aprender de cada error al instante.
 
-<br>
 <br>
 
 | Selección de Unidad | Test de Unidad |
@@ -66,8 +69,11 @@ Pon a prueba tus conocimientos con el **Simulador de Examen Oficial**.
 | <img src="./Assets/testStart.gif" alt="Licenses GIF" width="200"/> | <img src="./Assets/test.gif" alt="Licenses GIF" width="200"/> |
 
 ###  Historial y Análisis de Resultados
+
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=007AFF" />
+
 Tu progreso, bajo control. Todo se guarda localmente en tu dispositivo.
+
 - **Listado Completo**: Accede a todos los tests y exámenes que has realizado.
 - **Filtros Inteligentes**: Organiza tu historial por:
     - Tipo de Test (Examen vs Unidad).
@@ -75,7 +81,6 @@ Tu progreso, bajo control. Todo se guarda localmente en tu dispositivo.
     - Unidad específica.
 - **Gestión**: Elimina tests antiguos o irrelevantes deslizando el dedo.
 
-<br>
 <br>
 
 | Historial de Resultados | Filtrado de Tests |
