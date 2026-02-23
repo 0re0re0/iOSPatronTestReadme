@@ -210,7 +210,7 @@ La preparación de un examen requiere concentración. Hemos decidido eliminar cu
   <img src="https://readmecodegen.vercel.app/api/social-icon?name=gmail&size=20"
        style="vertical-align: middle; margin-left: 6px;" />
 </a>
-<a href="https://www.linkedin.com/in/javier-cardenas">
+<a href="https://www.linkedin.com/in/javiercardenasperdomo97/">
   <img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=20"
        style="vertical-align: middle; margin-left: 4px;" />
 </a>
