@@ -50,7 +50,7 @@ Pon a prueba tus conocimientos con el **Simulador de Examen Oficial**.
 
 | Examen |
 |:---:|
-| <img src="./Assets/exam.png" alt="exam" width="200"/>
+| <img src="./Assets/examen.png" alt="exam" width="200"/>
 
 ### Tests por Unidad: Refuerzo Temático
 
