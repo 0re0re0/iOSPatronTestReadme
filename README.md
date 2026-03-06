@@ -32,9 +32,9 @@ La aplicación se adapta a tu objetivo. Desde el primer momento, puedes seleccio
 
 <br>
 
-| Selección de Licencia |
+| Menú principal |
 |:---:|
-|<img src="./Assets/licenses.gif" alt="Licenses GIF" width="200"/>|
+|<img src="./Assets/home.png" alt="Menu Principal" width="200"/>|
 
 ### Modo Examen: Simulación Real
 
@@ -48,9 +48,9 @@ Pon a prueba tus conocimientos con el **Simulador de Examen Oficial**.
 
 <br>
 
-| Inicio de Examen | Pantalla de Examen |
-|:---:|:---:|
-| <img src="./Assets/examStart.gif" alt="Licenses GIF" width="200"/> |<img src="./Assets/exam.gif" alt="Licenses GIF" width="200"/>|
+| Examen |
+|:---:|
+| <img src="./Assets/exam.png" alt="exam" width="200"/>
 
 ### Tests por Unidad: Refuerzo Temático
 
@@ -64,17 +64,16 @@ Pon a prueba tus conocimientos con el **Simulador de Examen Oficial**.
 
 <br>
 
-| Selección de Unidad | Test de Unidad |
-|:---:|:---:|
-| <img src="./Assets/testStart.gif" alt="Licenses GIF" width="200"/> | <img src="./Assets/test.gif" alt="Licenses GIF" width="200"/> |
-
+| Test por Unidad |
+|:---:|
+| <img src="./Assets/temas.png" alt="temas" width="200"/> |
 ###  Historial y Análisis de Resultados
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=007AFF" />
 
 Tu progreso, bajo control. Todo se guarda localmente en tu dispositivo.
 
-- **Listado Completo**: Accede a todos los tests y exámenes que has realizado.
+- **Listado Completo**: Accede a todos los tests y exámenes que has realizado, ademas de poder ver un resumen al finalizar el test.
 - **Filtros Inteligentes**: Organiza tu historial por:
     - Tipo de Test (Examen vs Unidad).
     - Estado (Aprobado vs Suspenso).
@@ -83,9 +82,9 @@ Tu progreso, bajo control. Todo se guarda localmente en tu dispositivo.
 
 <br>
 
-| Historial de Resultados | Filtrado de Tests |
+| Resultados | Resumen de Tests |
 |:---:|:---:|
-| <img src="./Assets/results.gif" alt="Licenses GIF" width="200"/> | <img src="./Assets/filters.gif" alt="Licenses GIF" width="200"/> |
+| <img src="./Assets/resumen.png" alt="resumen" width="200"/> | <img src="./Assets/resultados.png" alt="resultados" width="200"/> |
 
 <br>
 <p align="left">
