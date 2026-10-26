@@ -6,7 +6,15 @@
 - **PER (Patrón de Embarcaciones de Recreo)** 
 - **PNB (Patrón de Navegación Básica)**.
 
-La aplicación ofrece una experiencia de estudio moderna, intuitiva y eficaz, permitiendo a los usuarios practicar con tests por temas o simular exámenes reales, todo ello sin distracciones y con un enfoque centrado en el aprendizaje. Dispone  de preguntas sacas de test examenes reales, revisadas minuciosamente ademas de la capacidad de revisar al detalle todos los test realizados por el usuario.
+La aplicación ofrece una experiencia de estudio moderna, intuitiva y eficaz, permitiendo a los usuarios practicar con tests por temas o simular exámenes reales, todo ello sin distracciones y con un enfoque centrado en el aprendizaje. Dispone de preguntas extraídas de exámenes reales y revisadas minuciosamente, además de permitir revisar al detalle todos los tests realizados por el usuario.
+
+<br>
+
+ La versión 2.0.0 incorpora nuevas vistas para consultar el progreso, guardar preguntas favoritas, analizar los resultados y sincronizar la información entre dispositivos.
+
+<br>
+
+Disponible también para iPad.
 
 [![Swift](https://img.shields.io/badge/Swift-5.9-orange.svg)](https://swift.org)
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-Latest-blue.svg)](https://developer.apple.com/xcode/swiftui/)
@@ -19,11 +27,11 @@ La aplicación ofrece una experiencia de estudio moderna, intuitiva y eficaz, pe
 </p>
 <br>
 
-### Gestión de Licencias
+### Inicio y Seguimiento del Progreso, Perfil y Gestión de Licencias
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=007AFF" />
 
 
-La aplicación se adapta a tu objetivo. Desde el primer momento, puedes seleccionar tu titulación:
+La aplicación se adapta a tu objetivo. Desde el primer momento, puedes seleccionar tu titulación, consultar desde Inicio tu progreso de estudio y revisar en Perfil tus estadísticas acumuladas de tests por unidad, exámenes oficiales y tiempo total de estudio:
 - **PER (Patrón de Embarcaciones de Recreo)**
 - **PNB (Patrón de Navegación Básica)**
 - **Incorporaremos mas titulaciones en el futuro**
@@ -32,15 +40,15 @@ La aplicación se adapta a tu objetivo. Desde el primer momento, puedes seleccio
 
 <br>
 
-| Menú principal |
-|:---:|
-|<img src="./Assets/home.png" alt="Menu Principal" width="200"/>|
+| Inicio | Perfil y estadísticas |
+|:---:|:---:|
+| <img src="./Assets/home.png" alt="Menú Principal" width="200"/> | <img src="./Assets/estadisticas.png" alt="Perfil y estadísticas" width="200"/> |
 
-### Modo Examen: Simulación Real
+### Modo Examen: Simulación Real y Criterios de Aprobación
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=007AFF" />
 
-Pon a prueba tus conocimientos con el **Simulador de Examen Oficial**.
+Pon a prueba tus conocimientos con el **Simulador de Examen Oficial** y consulta previamente sus criterios de aprobación.
 
 - Genera un examen completo siguiendo la estructura oficial del BOE.
 - Mismo número de preguntas y distribución por temas que el examen real.
@@ -48,30 +56,31 @@ Pon a prueba tus conocimientos con el **Simulador de Examen Oficial**.
 
 <br>
 
-| Examen |
-|:---:|
-| <img src="./Assets/examen.png" alt="exam" width="200"/>
+| Examen oficial | Criterios de aprobación |
+|:---:|:---:|
+| <img src="./Assets/examen.png" alt="Examen oficial" width="200"/> | <img src="./Assets/Criterios.png" alt="Criterios de aprobación" width="200"/> |
 
-### Tests por Unidad: Refuerzo Temático
+### Tests por Unidad y Preguntas Favoritas: Refuerzo Temático
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=007AFF" />
 
-¿Necesitas mejorar en Balizamiento o Reglamento?
+¿Necesitas mejorar en Balizamiento o Reglamento? Practica por unidad y guarda las preguntas más importantes en Favoritos para repasarlas cuando quieras.
 
 - **Estudio focalizado**: Selecciona cualquiera de las 11 unidades temáticas para practicar preguntas específicas.
+- **Preguntas favoritas**: Guarda preguntas durante un test, revísalas agrupadas por unidad y crea un test compuesto solo por tus favoritas.
 - Ideal para repasar temas concretos después de estudiarlos.
 - Feedback inmediato opcional para aprender de cada error al instante.
 
 <br>
 
-| Test por Unidad |
-|:---:|
-| <img src="./Assets/temas.png" alt="temas" width="200"/> |
+| Test por Unidad | Preguntas Favoritas |
+|:---:|:---:|
+| <img src="./Assets/temas.png" alt="Tests por unidad" width="200"/> | <img src="./Assets/favoritos.png" alt="Preguntas favoritas" width="200"/> |
 ###  Historial y Análisis de Resultados
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=007AFF" />
 
-Tu progreso, bajo control. Todo se guarda localmente en tu dispositivo.
+Tu progreso, bajo control. Todo se guarda localmente en tu dispositivo y puedes consultar tanto el historial como el resumen detallado de cada test. Los resultados y las preguntas favoritas se sincronizan entre dispositivos del mismo Apple ID mediante iCloud y CloudKit.
 
 - **Listado Completo**: Accede a todos los tests y exámenes que has realizado, ademas de poder ver un resumen al finalizar el test.
 - **Filtros Inteligentes**: Organiza tu historial por:
@@ -84,9 +93,27 @@ Tu progreso, bajo control. Todo se guarda localmente en tu dispositivo.
 
 | Resultados | Resumen de Tests |
 |:---:|:---:|
-| <img src="./Assets/resumen.png" alt="resumen" width="200"/> | <img src="./Assets/resultados.png" alt="resultados" width="200"/> |
+| <img src="./Assets/resultados.png" alt="resultados" width="200"/> | <img src="./Assets/resumen.png" alt="resumen" width="200"/> |
 
 <br>
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=35&text=Novedades%&color=007AFF&fontColor=ffffff&fontSize=20&padding=10" />
+</p>
+<br>
+
+### Versión 2.0.0
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=007AFF" />
+
+<br>
+
+- **Preguntas favoritas**: Ahora puedes guardar preguntas en favoritos y practicarlas.
+- **Sincronización con iCloud**: Sincronización automática entre dispositivos mediante iCloud y CloudKit.
+- **Nuevo perfil**: Ahora tienes un menú de perfil con tus datos, titulación y estadísticas de estudio y examen.
+- **Mejoras de interfaz**: Navegación, tarjetas, resultados y pantallas de práctica rediseñados para ofrecer una experiencia más clara e intuitiva.
+
+<br>
+
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=soft&height=35&text=Stack%20Tecnológico&color=007AFF&fontColor=ffffff&fontSize=20&padding=10" />
 </p>
@@ -99,6 +126,7 @@ Tu progreso, bajo control. Todo se guarda localmente en tu dispositivo.
 - **UI Framework**: SwiftUI
 - **Arquitectura**: Clean Architecture + MVVM + Coordinator
 - **Persistencia Local**: SwiftData
+- **Sincronización entre dispositivos**: CloudKit e iCloud para los datos persistentes; `NSUbiquitousKeyValueStore` para preferencias ligeras
 - **Backend / Configuración Remota**: Firebase (Firestore & Remote Config)
 - **Inyección de Dependencias**: Contenedor personalizado (AppContainer)
 - **Gestión de Estados**: ObservableObject / @Published
@@ -127,7 +155,7 @@ La aplicación sigue estrictamente los principios de **Clean Architecture** para
 3.  **Data Layer**:
     -   **Repositories Implementations**: Orquestan la obtención de datos (Local vs Remoto).
     -   **Data Sources**:
-        -   **Local**: `SwiftData` para persistencia de exámenes y progreso. `UserDefaults` para preferencias ligeras.
+        -   **Local**: `SwiftData` para persistencia de exámenes, resultados, progreso y preguntas favoritas. CloudKit sincroniza estos datos entre dispositivos del mismo Apple ID; `NSUbiquitousKeyValueStore` sincroniza preferencias ligeras.
         -   **Remote**: `Firebase` para obtener preguntas actualizadas y configuración.
 
 ### Diagrama de Archivos (Estructura Simplificada)
@@ -167,12 +195,13 @@ Patron Test/
 Utilizamos **SwiftData** para una persistencia moderna y eficiente. Esto permite al usuario:
 - Guardar su historial de exámenes.
 - Consultar resultados anteriores sin conexión.
-- Mantener su progreso sincronizado localmente.
+- Mantener su progreso y sus preguntas favoritas sincronizados entre dispositivos mediante **CloudKit** e **iCloud**.
+- Consultar las estadísticas acumuladas de estudio y de exámenes desde el perfil.
 
 ### Base de Datos Remota (Firebase)
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=007AFF" />
-- **Firestore**: Almacena el banco de preguntas actualizado, permitiendo corregir erratas o añadir nuevas preguntas sin actualizar la app.
-- **Remote Config**: Permite ajustar parámetros de la app dinámicamente desde la nube.
+- **Firestore**: Almacena el banco de preguntas y el contenido actualizado, permitiendo corregir erratas o añadir nuevas preguntas sin actualizar la app.
+- **Remote Config**: Permite ajustar parámetros de la app dinámicamente desde la nube, incluyendo las titulaciones disponibles y sus criterios de evaluación.
 
 <br>
 <br>
@@ -183,7 +212,7 @@ Utilizamos **SwiftData** para una persistencia moderna y eficiente. Esto permite
 
 ###  Sin Login
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=007AFF" />
-Creemos en la inmediatez. El usuario descarga la app y empieza a practicar al instante. No hay barreras de entrada, registros ni recolección de datos personales innecesarios.
+Creemos en la inmediatez. El usuario descarga la app y empieza a practicar al instante. No hay barreras de entrada, registros ni recolección de datos personales innecesarios. La sincronización entre dispositivos se realiza con el Apple ID del usuario a través de iCloud, sin crear una cuenta propia dentro de la aplicación.
 
 ###  Sin Anuncios
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=007AFF" />
